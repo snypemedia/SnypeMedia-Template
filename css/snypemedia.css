@@ -75,7 +75,7 @@ ol {
 
 section {
     width: 100vw;
-    height: 100vh;
+    height: auto;
     position: relative;
     display: -webkit-box;
     display: -webkit-flex;
